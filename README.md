@@ -6,7 +6,7 @@ A fun and interactive quiz app built with Flutter. Test your knowledge, track yo
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/72933144-fad1-4e5a-a0c9-ae582b82171f
+https://github.com/user-attachments/assets/c1a31f13-d0c8-4f74-ae5b-cd6823151c82
 ---
 
 ## ✨ Features
